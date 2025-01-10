@@ -5,6 +5,7 @@ The repository contains the following folders:
 
 /01_Data/
 Folder containing data needed to run R scripts
+
 /02_Scripts/
 Folder containing R scripts to replicate results and figures
 
